@@ -1,0 +1,11 @@
+baseURL: https://usamadeforkids.com/
+title: Made in the USA for Kids
+languageCode: en-us
+theme: blist
+params:
+  hideMeta: true
+  introTitle: "Made in the USA for Kids"
+  introSubtitle: "USA made stuff for babies and toddlers."
+  introPhoto: "/picture.jpg"
+  logo: "/blist-logo.png"
+  ascentColor: "blue"

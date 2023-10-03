@@ -8,5 +8,5 @@ params:
   introTitle: "Made in the USA for Kids"
   introSubtitle: "Discover the Best American-Made Products for Children"
   introPhoto: "/picture.jpg"
-  logo: "/blist-logo.png"
+  logo: "/madeintheusaforkids.png"
   ascentColor: "blue"

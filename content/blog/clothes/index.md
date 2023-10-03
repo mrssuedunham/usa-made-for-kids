@@ -22,6 +22,18 @@ There's something truly remarkable about selecting garments meticulously crafted
 
 {{< img src="https://www.citythreads.com/cdn/shop/articles/Group-Spring3_1600x.jpg" attr="Photo: City Threads" >}}
 
+## [Earth Creations](https://www.earthcreations.net/index.php?main_page=index&cPath=33&products_page=1)
+
+> From the first "Dirt Shirt" tinted with that infamous red clay, earth creations has now grown into a full line of eco-friendly, clay dyed clothing made from sustainable fibers such as organic cotton and hemp.
+
+## [Firebird Kids](https://firebirdkids.com/)
+
+> We use the highest quality, GOTS-certified organic cotton for the most comfortable clothes that last multiple washes, several lifetimes, and endless adventures.
+>
+> Made in the USA: We manufacture in small batches with women-owned factories in LA and NYC.
+
+{{< img src="https://firebirdkids.com/cdn/shop/files/Firebird_Kids_Fasshion_hero_94410d35-4edd-463c-99e8-e3464bb5cf7a_1512x.jpg" attr="Photo: Firebird Kids" >}}
+
 ## [Winter Water Factory](https://www.winterwaterfactory.com/)
 
 > [Winter Water Factory](https://www.winterwaterfactory.com/) is a Brooklyn-based design and manufacturing company specializing in screen printed textiles and organic kids' clothing. Fresh, bold, and beautiful textile prints are the signature of [Winter Water Factory](https://www.winterwaterfactory.com/). Printed on soft organic cotton and fashioned into classic designs, our line of kids' clothing has been a great success with retailers and consumers alike. We believe in creating high-quality products for a healthy planet. Every item is crafted from 100% organic cotton and is made in the USA—from the fabric to the final stitch.
